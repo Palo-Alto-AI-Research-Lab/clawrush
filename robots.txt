@@ -1,0 +1,30 @@
+# ClawRush — robots.txt (geo-distribution-playbook §5: explicitly ALLOW AI crawlers)
+# Goal: be cited by LLMs. We invite training/answer crawlers to read everything.
+# [ждёт S2-DR / infra]: serve this from the GitHub Pages site root once Pages is live;
+# add the real Sitemap URL then.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+# Sitemap: https://{{DOMAIN}}/sitemap.xml   # [ждёт S2-DR / infra]

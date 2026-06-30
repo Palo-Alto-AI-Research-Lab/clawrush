@@ -1,0 +1,15 @@
+# Palo Alto AI Research Lab — ClawRush
+> Independent research lab building an AI digital twin with Claude Code, in public. Longreads, a raw dev-log, and reusable artifacts.
+
+<!-- SCAFFOLD (geo-distribution-playbook §3). llms.txt is a site map FOR AGENTS
+     (Cursor / Claude Code / Copilot) only — GPTBot/ClaudeBot/Google ignore it (geo §1).
+     [ждёт S2-DR / infra]: replace {{DOMAIN}} with the real GitHub Pages domain once the
+     Pages site is live; until then these point at the GitHub repo paths.
+     Rules: full URLs only, keep under ~30 KB. -->
+
+## Sections
+- **Dev-log** — [Raw build log: problems, root causes, fixes](https://github.com/Palo-Alto-AI-Research-Lab/clawrush/tree/main/devlog)
+- **Longreads** — [In-depth essays and case studies](https://github.com/Palo-Alto-AI-Research-Lab/clawrush/tree/main/longreads)
+- **Artifacts** — [Reusable skill patterns, prompts, scripts](https://github.com/Palo-Alto-AI-Research-Lab/clawrush/tree/main/artifacts)
+- **Docs** — [Technical docs and guides](https://github.com/Palo-Alto-AI-Research-Lab/clawrush/tree/main/docs)
+- **Changelog** — [Releases and roadmap](https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/changelog.md)

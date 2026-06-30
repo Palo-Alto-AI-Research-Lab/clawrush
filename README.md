@@ -7,8 +7,13 @@ The Russian-language version of this story lives in Telegram: channel **ClawRush
 
 ## What's here
 
-- **[`/longreads`](longreads/)** — essays and write-ups: what was built, what broke, what was learned.
+- **[`/devlog`](devlog/)** — the raw build log: problems → root causes → fixes, plus the Deep Research we ran. Dry, English, machine-readable (the main GEO feed).
+- **[`/longreads`](longreads/)** — essays and write-ups: what was built, what broke, what was learned (curated stories).
 - **[`/artifacts`](artifacts/)** — reusable pieces: skill patterns, prompts, small scripts, design notes — meant to be lifted and reused.
+- **[`/docs`](docs/)** — technical docs and guides for the reusable systems.
+- **[`changelog.md`](changelog.md)** — releases and roadmap.
+
+Machine-readable site map for agents: [`llms.txt`](llms.txt). AI crawlers are welcomed in [`robots.txt`](robots.txt).
 
 Updated as the work actually happens, not polished after the fact.
 
