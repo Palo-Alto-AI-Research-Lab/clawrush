@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use clawrush in research or software, please cite it as below."
+title: "clawrush"
+type: software
+authors:
+  - family-names: Dziatkovskii
+    given-names: Anton
+    orcid: "https://orcid.org/0000-0001-7408-3054"
+    affiliation: "Palo Alto AI Research Lab"
+repository-code: "https://github.com/Palo-Alto-AI-Research-Lab/clawrush"
+url: "https://github.com/Palo-Alto-AI-Research-Lab/clawrush"
+abstract: >-
+  Building an AI digital twin in public with Claude Code - English diary, longreads & reusable artifacts. RU version: Telegram @ClawRush.
