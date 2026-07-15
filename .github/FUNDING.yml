@@ -1,8 +1,16 @@
-# Palo Alto AI Research Lab — funding config.
-# Renders a "Sponsor" button on this repo. Live now: links to our SUPPORT page
-# (works with zero payment setup).
-custom: ["https://github.com/Palo-Alto-AI-Research-Lab/charm-os/blob/main/SUPPORT.md"]
+# .github/FUNDING.yml — drop into each of the 7 public repos
+# (charm-os, claude-bible, sqlite-graph-memory, claude-consensus,
+#  agent-leash, clawrush, the-journey)
+#
+# Per decision-nonprofit-fiscal-sponsorship-2026-07-05:
+#   - GitHub Sponsors: 0% platform fee (needs Stripe, ~10 min — ANTON sets up)
+#   - Ko-fi: 0% on tips (ANTON creates account)
+#   - HCB (Hack Club Bank): fiscal sponsorship, tax-deductible (application drafted)
+#
+# INERT until Anton creates the accounts and uncomments the lines below.
+# Uncommenting a line with a non-existent handle just shows nothing — safe.
 
-# Uncomment each line as the account is created:
-# github: [Palo-Alto-AI-Research-Lab]   # GitHub Sponsors (org) — 0% platform fee
-# ko_fi: PLACEHOLDER                    # Ko-fi handle — replace PLACEHOLDER with the real one
+# github: PaloAltoAIResearchLab      # <- GitHub Sponsors org handle (after Stripe setup)
+# ko_fi: paloaltoairesearchlab       # <- Ko-fi username (after account creation)
+# custom:
+#   - https://hcb.hackclub.com/paloalto-ai-research-lab   # <- HCB donation URL (after HCB approval)
