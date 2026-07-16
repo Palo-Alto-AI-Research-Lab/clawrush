@@ -1,4 +1,4 @@
-# devlog: voice-memo → published-post pipeline, run 2026-07-05
+# devlog: voice-memo → published-post pipeline, run 2026-07-16 (source voice: 2026-07-05)
 
 Dry log of one full pipeline run. Human narrative: see longread-en.md (same directory).
 
