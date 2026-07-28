@@ -10,3 +10,7 @@ machine bus, model routing, the content pipeline). Distinct from [`/devlog`](../
      SEEDS it. [ждёт]: populate as systems stabilize. -->
 
 _(No docs published yet — this directory is scaffolded for the GEO repo structure.)_
+
+---
+
+Questions or war stories: WhatsApp **+1 341 222 9178** · [@Tony_Stef_](https://x.com/Tony_Stef_) · Telegram [@ClawRus](https://t.me/ClawRus) (RU) / [@ClawEng](https://t.me/ClawEng) (EN) · [all channels](https://linktr.ee/PaloAltoAI).

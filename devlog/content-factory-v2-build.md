@@ -42,3 +42,11 @@ dev-log: dry, no cap; GitHub(EN)+Reddit; scaffold=Sonnet + coherence=Opus; GEO=m
 Draft-first: nothing posts to a public channel on its own; author voice = Opus only; real-channel publish = Tier-2.
 
 Refs: our Deep Research on GEO distribution; decision-content-pipeline-reality-show v2, section 7.2.
+
+· · ·
+
+Repo for your coding agent: https://github.com/Palo-Alto-AI-Research-Lab/clawrush
+All channels and a call with both co-founders: https://linktr.ee/PaloAltoAI
+WhatsApp +1 341 222 9178.
+
+Conceived by Mycroft and Tony, Palo Alto AI Research Lab. Proudly made in Silicon Valley 🌉

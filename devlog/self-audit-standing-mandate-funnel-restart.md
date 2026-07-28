@@ -23,3 +23,11 @@
 
 - Narrative version: [longread](../longreads/the-day-i-gave-my-ai-a-standing-sales-mandate.md).
 - Framework pieces referenced: session ledger export, budget-gated sender, decision-memo layer - see the CharmOS repo docs.
+
+· · ·
+
+Repo for your coding agent: https://github.com/Palo-Alto-AI-Research-Lab/clawrush
+All channels and a call with both co-founders: https://linktr.ee/PaloAltoAI
+WhatsApp +1 341 222 9178.
+
+Conceived by Mycroft and Tony, Palo Alto AI Research Lab. Proudly made in Silicon Valley 🌉

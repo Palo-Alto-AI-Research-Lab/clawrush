@@ -20,3 +20,7 @@ and enough time to ship one new module per month.
 
 Not ready to give money? Starring the repo, filing a good issue, or telling one person
 who'd use it helps just as much. Thank you. 🙏
+
+---
+
+Questions or war stories: WhatsApp **+1 341 222 9178** · [@Tony_Stef_](https://x.com/Tony_Stef_) · Telegram [@ClawRus](https://t.me/ClawRus) (RU) / [@ClawEng](https://t.me/ClawEng) (EN) · [all channels](https://linktr.ee/PaloAltoAI).

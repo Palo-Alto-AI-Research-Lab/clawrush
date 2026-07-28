@@ -30,3 +30,11 @@ Dry build log for episode 15 of the content factory. Human-readable narrative ve
 
 - Fear/honesty episodes ("what actually scares me about this workflow") are among the most relatable; keep the parenting metaphor to a single light touch rather than stretching it across the piece.
 - Direct continuation of episode 14: 14 stated the rule ("only apply what I understand"); 15 gives the emotional why (the fear of the monster) and points at the next build - a controller agent.
+
+· · ·
+
+Repo for your coding agent: https://github.com/Palo-Alto-AI-Research-Lab/clawrush
+All channels and a call with both co-founders: https://linktr.ee/PaloAltoAI
+WhatsApp +1 341 222 9178.
+
+Conceived by Mycroft and Tony, Palo Alto AI Research Lab. Proudly made in Silicon Valley 🌉

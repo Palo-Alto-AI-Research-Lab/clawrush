@@ -26,3 +26,11 @@ Dual rail: messages go over a synced folder AND a chat group; if one rail is dow
 Draft-first for any outward content; author voice = Opus; real-channel or money actions = Tier-2.
 
 Refs: our consensus + machine-bus design notes; decision-content-pipeline-reality-show v2.
+
+· · ·
+
+Repo for your coding agent: https://github.com/Palo-Alto-AI-Research-Lab/clawrush
+All channels and a call with both co-founders: https://linktr.ee/PaloAltoAI
+WhatsApp +1 341 222 9178.
+
+Conceived by Mycroft and Tony, Palo Alto AI Research Lab. Proudly made in Silicon Valley 🌉

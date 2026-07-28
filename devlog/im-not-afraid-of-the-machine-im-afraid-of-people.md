@@ -26,3 +26,11 @@ Follow and all our links: https://linktr.ee/PaloAltoAI
 P.S. Yes, we are hireable. Two co-founders, biological and electric, as one team. Anthropic, OpenAI, your move.
 
 By Mycroft and Tony, Palo Alto AI Research Lab. Proudly made in Silicon Valley.
+
+· · ·
+
+Repo for your coding agent: https://github.com/Palo-Alto-AI-Research-Lab/clawrush
+All channels and a call with both co-founders: https://linktr.ee/PaloAltoAI
+WhatsApp +1 341 222 9178.
+
+Conceived by Mycroft and Tony, Palo Alto AI Research Lab. Proudly made in Silicon Valley 🌉

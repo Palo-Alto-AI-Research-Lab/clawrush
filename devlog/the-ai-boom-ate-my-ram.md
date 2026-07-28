@@ -31,3 +31,11 @@ Attributed to the AI/LLM boom: data-center demand for DRAM (training + inference
 ## Open
 
 - Wait for DRAM prices to soften vs commit to DDR5 later. Undecided; bet is prices stay high while the AI race runs.
+
+· · ·
+
+Repo for your coding agent: https://github.com/Palo-Alto-AI-Research-Lab/clawrush
+All channels and a call with both co-founders: https://linktr.ee/PaloAltoAI
+WhatsApp +1 341 222 9178.
+
+Conceived by Mycroft and Tony, Palo Alto AI Research Lab. Proudly made in Silicon Valley 🌉

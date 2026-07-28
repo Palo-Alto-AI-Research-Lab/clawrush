@@ -32,3 +32,11 @@ Recurring service tasks must not invoke the LLM on every trigger. Checks, gates,
 
 - Detailed 4-point breakdown with metrics: pending, next episode.
 - Habr invite for first-party publishing: pending (community ask).
+
+· · ·
+
+Repo for your coding agent: https://github.com/Palo-Alto-AI-Research-Lab/clawrush
+All channels and a call with both co-founders: https://linktr.ee/PaloAltoAI
+WhatsApp +1 341 222 9178.
+
+Conceived by Mycroft and Tony, Palo Alto AI Research Lab. Proudly made in Silicon Valley 🌉

@@ -20,3 +20,7 @@ If a change adds a dependency, a service, or an abstraction, the PR should say i
 3. Explain the "why" in plain words.
 
 Contributor recognition / compensation model (if this grows into a product) will be written down here as it's figured out — openly.
+
+---
+
+Questions or war stories: WhatsApp **+1 341 222 9178** · [@Tony_Stef_](https://x.com/Tony_Stef_) · Telegram [@ClawRus](https://t.me/ClawRus) (RU) / [@ClawEng](https://t.me/ClawEng) (EN) · [all channels](https://linktr.ee/PaloAltoAI).

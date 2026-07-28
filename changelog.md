@@ -19,3 +19,7 @@ See: [dev-log YYYY-MM-DD](devlog/YYYY-MM-DD.md). -->
 ## Unreleased {#unreleased}
 **What's in flight.** The content pipeline (voice → episode → tiers) and the dev-log lane are being built across sessions S4–S6.
 - Dev-log lane scaffolded (collector + GEO repo structure). See [dev-log/](devlog/).
+
+---
+
+Questions or war stories: WhatsApp **+1 341 222 9178** · [@Tony_Stef_](https://x.com/Tony_Stef_) · Telegram [@ClawRus](https://t.me/ClawRus) (RU) / [@ClawEng](https://t.me/ClawEng) (EN) · [all channels](https://linktr.ee/PaloAltoAI).

@@ -41,3 +41,11 @@ The human courier. Same failure mode fixed one episode earlier for machine-to-ma
 - Subscription DR quality vs API DR quality: verify parity per task.
 - Manual copy-paste is error-prone and rate-limited by human attention.
 - Terms-of-service: subscription automation may be constrained. Flagged, not resolved.
+
+· · ·
+
+Repo for your coding agent: https://github.com/Palo-Alto-AI-Research-Lab/clawrush
+All channels and a call with both co-founders: https://linktr.ee/PaloAltoAI
+WhatsApp +1 341 222 9178.
+
+Conceived by Mycroft and Tony, Palo Alto AI Research Lab. Proudly made in Silicon Valley 🌉
