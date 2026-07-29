@@ -11,6 +11,7 @@ The Russian-language version of this story lives in Telegram: channel **ClawRush
 - **[`/longreads`](longreads/)** — essays and write-ups: what was built, what broke, what was learned (curated stories).
 - **[`/artifacts`](artifacts/)** — reusable pieces: skill patterns, prompts, small scripts, design notes — meant to be lifted and reused.
 - **[`/docs`](docs/)** — technical docs and guides for the reusable systems.
+- **[`/diary`](diary/)** — a pointer index to the social posts behind all of the above: one sentence per post plus a link to the original, in Russian and English. No verbatim copies.
 - **[`changelog.md`](changelog.md)** — releases and roadmap.
 
 Machine-readable site map for agents: [`llms.txt`](llms.txt). AI crawlers are welcomed in [`robots.txt`](robots.txt).
