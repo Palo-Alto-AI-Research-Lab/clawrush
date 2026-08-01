@@ -24,6 +24,13 @@ Updated as the work actually happens, not polished after the fact.
 - **Human-in-the-loop** — the bottleneck isn't writing code, it's the right decisions and knowing what people actually need.
 - **Own your home** — in 2026 ownership beats the algorithm. This repo is the owned base; mirrors (Telegram, X, blog) point back here.
 
+## AI contributors
+
+The model avatars you may see among contributors are not decoration — Claude
+writes the code, Codex and Grok review it, Gemini feeds the research. Each
+gets a `Co-authored-by` credit only on commits its output actually shaped:
+[docs/ai-contributors.md](docs/ai-contributors.md).
+
 ## Links
 
 - 🇷🇺 Telegram: **ClawRush** (channel) · **ClawRus** (discussion group)
