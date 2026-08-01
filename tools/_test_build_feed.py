@@ -37,6 +37,20 @@ print("rfc822")
 check("iso -> rfc822 utc", bf.rfc822("2026-07-31T21:57:26-07:00") == "Sat, 01 Aug 2026 04:57:26 +0000",
       bf.rfc822("2026-07-31T21:57:26-07:00"))
 
+print("ordering and links (regressions found by an external review, 2026-08-01)")
+mixed = [{"title": "later", "summary": "", "link": "http://x/a", "iso": "2026-07-31T23:00:00-10:00"},
+         {"title": "earlier", "summary": "", "link": "http://x/b", "iso": "2026-08-01T01:00:00+14:00"}]
+ordered = sorted(mixed, key=lambda p: bf.datetime.fromisoformat(p["iso"]).astimezone(bf.timezone.utc),
+                 reverse=True)
+check("mixed timezone offsets sort by instant, not by string",
+      ordered[0]["title"] == "later", ordered[0]["title"])
+
+check("spaces and # in a filename are percent-encoded",
+      "a%20b%23c.md" in bf.urllib.parse.quote("longreads/a b#c.md"),
+      bf.urllib.parse.quote("longreads/a b#c.md"))
+check("path separators survive quoting",
+      bf.urllib.parse.quote("longreads/x.md") == "longreads/x.md")
+
 print("render")
 xml = bf.render([{"title": "A & B <tag>", "summary": "s & s", "link": "http://x/a.md",
                   "iso": "2026-07-31T10:00:00+00:00"}], "Fri, 01 Aug 2026 00:00:00 +0000")
@@ -56,7 +70,9 @@ print("live repo")
 posts = bf.collect()
 check("finds essays in longreads/", len(posts) > 0, "%d found" % len(posts))
 check("every post has a date", all(p["iso"] for p in posts))
-check("sorted newest first", all(posts[i]["iso"] >= posts[i + 1]["iso"] for i in range(len(posts) - 1)))
+inst = [bf.datetime.fromisoformat(p["iso"]).astimezone(bf.timezone.utc) for p in posts]
+check("sorted newest first (by instant — this repo really does hold mixed offsets)",
+      all(inst[i] >= inst[i + 1] for i in range(len(inst) - 1)))
 try:
     ET.fromstring(bf.render(posts, "Fri, 01 Aug 2026 00:00:00 +0000"))
     check("real feed parses", True)

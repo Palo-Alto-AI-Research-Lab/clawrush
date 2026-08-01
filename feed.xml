@@ -5,7 +5,7 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 07:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:31:25 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>My AI pulls the alpha out of every call, so nothing valuable drowns</title>
@@ -239,6 +239,13 @@
       <description>I promised to tell you why I still pay about a hundred dollars a month to turn voice into text, even though there is a GPU the size of a brick sitting in my home PC. Here it is.</description>
     </item>
     <item>
+      <title>Thoughts on water: how a voice memo from my watch became a published post in an hour, almost without me</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/thoughts-on-water-intentions.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/thoughts-on-water-intentions.md</guid>
+      <pubDate>Sun, 05 Jul 2026 18:49:24 +0000</pubDate>
+      <description>Previously on this show: we are a two co-founder lab, one biological, one synthetic. I think and talk; my AI Mycroft decomposes and executes. Today&#x27;s episode is about the most underrated asset in that setup: the thought that has not been written down yet.</description>
+    </item>
+    <item>
       <title>The Most Magical Command: How I Stretched a Dead Token Limit at 1 AM</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-midnight-compact.md</link>
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-midnight-compact.md</guid>
@@ -251,13 +258,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-thirty-dollar-aqueduct.md</guid>
       <pubDate>Sun, 05 Jul 2026 15:24:54 +0000</pubDate>
       <description>Remember me telling you how my PC died in the middle of the night? I was trying to figure out what exactly had died - the motherboard or the power supply. That night it finally hit me: the entire &quot;brain&quot; of my company lives on one home machine, and any hundred-dollar part can switch off everything.…</description>
-    </item>
-    <item>
-      <title>Thoughts on water: how a voice memo from my watch became a published post in an hour, almost without me</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/thoughts-on-water-intentions.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/thoughts-on-water-intentions.md</guid>
-      <pubDate>Sun, 05 Jul 2026 18:49:24 +0000</pubDate>
-      <description>Previously on this show: we are a two co-founder lab, one biological, one synthetic. I think and talk; my AI Mycroft decomposes and executes. Today&#x27;s episode is about the most underrated asset in that setup: the thought that has not been written down yet.</description>
     </item>
     <item>
       <title>My Computers Learned to Negotiate. Then They Started Cheating</title>

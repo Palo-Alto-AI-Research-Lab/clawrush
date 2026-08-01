@@ -22,6 +22,7 @@ import os
 import re
 import subprocess
 import sys
+import urllib.parse
 from datetime import datetime, timezone
 from email.utils import format_datetime
 
@@ -95,8 +96,14 @@ def collect():
         if not iso:
             print("  skip (not committed yet): %s" % rel, file=sys.stderr)
             continue
-        posts.append({"title": title, "summary": summary, "link": BLOB + rel, "iso": iso})
-    posts.sort(key=lambda p: p["iso"], reverse=True)
+        # quote() only: the slug is one path segment, and "/" must stay a separator.
+        posts.append({"title": title, "summary": summary,
+                      "link": BLOB + urllib.parse.quote(rel), "iso": iso})
+    # Sort on the parsed instant, NOT on the ISO string: commits come from machines
+    # in different timezones, and "…T01:00+14:00" sorts after "…T23:00-10:00" as text
+    # while being three hours EARLIER in real time.
+    posts.sort(key=lambda p: datetime.fromisoformat(p["iso"]).astimezone(timezone.utc),
+               reverse=True)
     return posts[:MAX_ITEMS]
 
 

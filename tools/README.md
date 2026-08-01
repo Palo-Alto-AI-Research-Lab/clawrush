@@ -35,6 +35,8 @@ python3 tools/_test_build_feed.py     # 13 checks, exit 0 = green
 | A new essay never shows up on the profile | file has no `# ` heading on its first heading line | add one; the script prints `skip (no '# ' heading)` |
 | An essay is dated today though it's old | it was re-added (deleted + committed again), so the *add* commit is new | leave it, or `git log --follow` the file to confirm |
 | Every night a no-op commit lands | someone removed the `lastBuildDate` reuse in `main()` | restore it — the build date alone must never count as a change |
+| Posts come out in slightly the wrong order | someone sorted on the ISO *string* again | sort on the parsed instant; this repo holds commits at +05:00, +02:00, +01:00 and −07:00, and `…T01:00+14:00` sorts after `…T23:00−10:00` as text while being earlier in time |
+| The nightly job fails with "non-fast-forward" | a human pushed between checkout and push | already handled — the workflow rebases and retries three times |
 | Workflow fails with an empty feed | `longreads/` was moved or emptied | the script refuses to write an empty feed and exits 1 by design |
 | Dates are all identical | checkout without `fetch-depth: 0` — no history to read | keep `fetch-depth: 0` in the workflow |
 
