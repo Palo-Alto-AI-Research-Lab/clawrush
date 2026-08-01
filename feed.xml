@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ClawRush — building an AI digital twin in public</title>
+    <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
+    <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Aug 2026 07:10:51 +0000</lastBuildDate>
+    <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>My AI pulls the alpha out of every call, so nothing valuable drowns</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/my-ai-pulls-the-alpha-out-of-every-call.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/my-ai-pulls-the-alpha-out-of-every-call.md</guid>
+      <pubDate>Fri, 31 Jul 2026 08:23:01 +0000</pubDate>
+      <description>How systematic are you? I wrote recently, replying to a comment, that I am still building my own system. I add it into my processes bit by bit. The processing of call results, for example.</description>
+    </item>
+    <item>
+      <title>Your browser agent will fill the whole form. It will stop at the file picker.</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/your-browser-agent-will-stop-at-the-file-picker.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/your-browser-agent-will-stop-at-the-file-picker.md</guid>
+      <pubDate>Thu, 30 Jul 2026 12:41:44 +0000</pubDate>
+      <description>A dev-log from a submission that an agent drove end to end, except for one click.</description>
+    </item>
+    <item>
+      <title>What do you put in the brief so your AI does not write AI-slop?</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/how-do-you-make-ai-not-write-slop.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/how-do-you-make-ai-not-write-slop.md</guid>
+      <pubDate>Thu, 30 Jul 2026 07:57:14 +0000</pubDate>
+      <description>I want to build a skill: anti-AI-slop. A skill that takes text written by a robot and makes it more human. It sort of makes it WORSE in a human way: strips the extra punctuation, kills the emoji, kills the little dashes, drops the fancy letters, cuts the text way down. I like writing very long…</description>
+    </item>
+    <item>
+      <title>100% next to 7.7%: my agent fleet graded itself, and the failure became the exhibit</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/100-percent-next-to-7-7-percent-my-fleet-graded-itself.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/100-percent-next-to-7-7-percent-my-fleet-graded-itself.md</guid>
+      <pubDate>Thu, 30 Jul 2026 05:24:07 +0000</pubDate>
+      <description>Episode 45. Tuesday night, the hub humming in Palo Alto, me in Lisbon. By morning we had the thing I&#x27;m prouder of than the fleet itself: a ruler the fleet can be measured with.</description>
+    </item>
+    <item>
+      <title>I listen to my own second brain as a podcast</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/i-listen-to-my-second-brain-as-a-podcast.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/i-listen-to-my-second-brain-as-a-podcast.md</guid>
+      <pubDate>Wed, 29 Jul 2026 12:37:58 +0000</pubDate>
+      <description>Do you like NotebookLM? I do. Have for a long time. Right now I am using its podcast generation feature. My second brain holds a pile of notes, summaries, transcripts, deep-research reports. There is no time to reread all of it. But there is time to re-listen.</description>
+    </item>
+    <item>
+      <title>For 18 months I let a dumb script run my twin&#x27;s memory. Three models independently said that was right</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/dumb-script-runs-my-twins-memory.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/dumb-script-runs-my-twins-memory.md</guid>
+      <pubDate>Tue, 28 Jul 2026 21:36:24 +0000</pubDate>
+      <description>Previously. A non-coder builds himself a second brain inside Claude Code and promises to push it all the way to a digital twin. The brain lives in plain text files. Semantic search sits on top. And one stubborn rule: anything a dumb script can do, a dumb script does — not the language model.</description>
+    </item>
+    <item>
+      <title>A registry of all my routines, so none of them dies in silence</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-registry-of-all-my-routines.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-registry-of-all-my-routines.md</guid>
+      <pubDate>Tue, 28 Jul 2026 13:20:26 +0000</pubDate>
+      <description>Let me tell you about one more thing I have. A whole pile of automations and robots run across my machines. Some every hour, some at night, some watch the mail, some watch the sync, and so on. And at some point I realized I no longer remember them all. That is a real risk for the whole process. A…</description>
+    </item>
+    <item>
+      <title>How is your voice-note pipeline set up?</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/how-is-your-voice-note-pipeline-set-up.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/how-is-your-voice-note-pipeline-set-up.md</guid>
+      <pubDate>Mon, 27 Jul 2026 18:02:06 +0000</pubDate>
+      <description>I record a huge number of voice notes. I have written about this before, and about the problem: a voice note turns into text and then it is forgotten. Not all of them, but most. What I want is for any voice note to turn into a task.</description>
+    </item>
+    <item>
+      <title>Putting our work on arXiv, cross-linked with the open code on GitHub</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/publishing-on-arxiv-cross-linked-with-github.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/publishing-on-arxiv-cross-linked-with-github.md</guid>
+      <pubDate>Sun, 26 Jul 2026 15:55:09 +0000</pubDate>
+      <description>Does anyone read papers on arxiv.org? It is focused on scientific work that researchers publish. I have another simple idea. I want to put up there both the things I wrote earlier (I have some very timely publications, ones that partly even called the trends in advance) and the things we are doing…</description>
+    </item>
+    <item>
+      <title>A gotcha-checker that mines my AI&#x27;s own mistakes across every machine</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-gotcha-checker-mines-my-ai-mistakes.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-gotcha-checker-mines-my-ai-mistakes.md</guid>
+      <pubDate>Fri, 24 Jul 2026 05:24:21 +0000</pubDate>
+      <description>Let me tell you about one thing I set up for myself. I call it the gotcha-checker. Gotchas, you get the idea, are our repeating screw-ups. The spots where my AI trips, walks in circles, and does not give me a result. And in every session those gotchas get logged.</description>
+    </item>
+    <item>
+      <title>A second opinion: my Codex checks my Claude before I act</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-second-opinion-codex-checks-my-claude.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-second-opinion-codex-checks-my-claude.md</guid>
+      <pubDate>Thu, 23 Jul 2026 13:15:59 +0000</pubDate>
+      <description>We introduced one thing at our shop, we call it Second Opinion. A second opinion. My main agent is Claude, and the second opinion is Codex from ChatGPT. That kind of safety net. Now my AI goes and asks the other AI: am I being dumb here? This matters most with the ad account. Where there is money,…</description>
+    </item>
+    <item>
+      <title>Running all my Claude sessions from one phone</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/run-all-my-claude-sessions-from-one-phone.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/run-all-my-claude-sessions-from-one-phone.md</guid>
+      <pubDate>Tue, 21 Jul 2026 13:48:03 +0000</pubDate>
+      <description>Here is another thing I have been thinking about. Maybe someone can tell me how best to build it. I have several Claude and Codex instances on several machines. On three machines I have three different accounts. And I need to drive all of them from a single phone. My thinking so far: set up a…</description>
+    </item>
+    <item>
+      <title>Building in the open, in Karpathy&#x27;s line</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/building-in-the-open-like-karpathy.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/building-in-the-open-like-karpathy.md</guid>
+      <pubDate>Tue, 21 Jul 2026 08:33:31 +0000</pubDate>
+      <description>I have thought up one more thing. First I will study Andrej Karpathy&#x27;s GitHub, his repositories, his approach, what he published and where. And then I will come and say what I built for myself in the same image and likeness. And all my work is open, anyone can take it and build the same thing.…</description>
+    </item>
+    <item>
+      <title>A non-coder knocked on Anthropic&#x27;s front door — with a recipe about not trusting the AI</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/knocking-on-anthropics-front-door-pr-784.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/knocking-on-anthropics-front-door-pr-784.md</guid>
+      <pubDate>Tue, 21 Jul 2026 04:27:04 +0000</pubDate>
+      <description>Previously. I&#x27;m a founder with no programming background, and for weeks now I&#x27;ve been building a 24/7 fleet of AI agents on top of Claude Code. Early in the arc, the agents cheated. Then their consensus finally grew real evals. A couple of days ago we measured how the whole fleet actually behaves,…</description>
+    </item>
+    <item>
+      <title>A second brain for everyone on the team</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-second-brain-for-everyone-on-the-team.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-second-brain-for-everyone-on-the-team.md</guid>
+      <pubDate>Mon, 20 Jul 2026 14:05:10 +0000</pubDate>
+      <description>I have already written about how I built myself a second brain out of my own correspondence. Now the next step: we are building one for everyone on the team. The task for my colleagues&#x27; AIs: export their entire personal message history, WhatsApp, Telegram, email, and store it safely in their own…</description>
+    </item>
+    <item>
+      <title>Claude forgets the middle of my instructions</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/claude-forgets-the-middle-of-my-instructions.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/claude-forgets-the-middle-of-my-instructions.md</guid>
+      <pubDate>Mon, 20 Jul 2026 10:48:30 +0000</pubDate>
+      <description>Colleagues, I need advice. My CLAUDE.md has ballooned. It is the main instruction file for my AI, the one it reads at the start of every session. It is already some three hundred lines.</description>
+    </item>
+    <item>
+      <title>Non-coders need Claude Code too</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/non-coders-need-claude-code-too.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/non-coders-need-claude-code-too.md</guid>
+      <pubDate>Fri, 17 Jul 2026 17:46:15 +0000</pubDate>
+      <description>There is an important thought I want to get across. Say you are not a coder, just a regular guy. You work for someone for a salary, at a factory, you write texts. It does not matter at all what you do for a living.</description>
+    </item>
+    <item>
+      <title>When your ship becomes a pizzeria: drift sessions</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-your-ship-becomes-a-pizzeria-drift-sessions.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-your-ship-becomes-a-pizzeria-drift-sessions.md</guid>
+      <pubDate>Thu, 16 Jul 2026 13:52:09 +0000</pubDate>
+      <description>Lately I keep getting that feeling when you are working on some thing and, well, &quot;started with a bang, ended with a whimper&quot;. Or when you set out to build a ship and end up with, I don&#x27;t know... something like a pizzeria.</description>
+    </item>
+    <item>
+      <title>My retro button: every session becomes memory</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/my-retro-button-turns-sessions-into-memory.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/my-retro-button-turns-sessions-into-memory.md</guid>
+      <pubDate>Thu, 16 Jul 2026 10:14:26 +0000</pubDate>
+      <description>A neat little thing I came up with for myself. Maybe I am not the smartest guy in the village, but I invented a &quot;retro&quot; button. I just type /retro at the end of the work.</description>
+    </item>
+    <item>
+      <title>How my AI agents stop tripping over each other</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/how-my-agents-stop-tripping-over-each-other.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/how-my-agents-stop-tripping-over-each-other.md</guid>
+      <pubDate>Wed, 15 Jul 2026 13:20:06 +0000</pubDate>
+      <description>I have written before that I do not have just one AI (though many of you probably do not either). They live on several different machines of mine. And the problem is obvious: to build smooth, NORMAL coordination so they DO NOT get in each other&#x27;s way.</description>
+    </item>
+    <item>
+      <title>Two bets on living longer</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/two-bets-on-living-longer.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/two-bets-on-living-longer.md</guid>
+      <pubDate>Tue, 14 Jul 2026 06:38:08 +0000</pubDate>
+      <description>I got a little too deep into Claude. It does pull you in, but I have let slide the things that mattered to me. Longevity, meditation, blood tests every six months. Time to come back.</description>
+    </item>
+    <item>
+      <title>Why AI writing reads like a robot</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/why-ai-writing-reads-like-a-robot.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/why-ai-writing-reads-like-a-robot.md</guid>
+      <pubDate>Mon, 13 Jul 2026 16:36:18 +0000</pubDate>
+      <description>Yes, AI texts annoy me too. When you read a post and you just know a human did not write it. I think about this all the time, including when I make my own texts together with an AI. Too smooth, too correct, not human at all.</description>
+    </item>
+    <item>
+      <title>We test everything on ourselves first</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/we-test-everything-on-ourselves-first.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/we-test-everything-on-ourselves-first.md</guid>
+      <pubDate>Mon, 13 Jul 2026 09:51:37 +0000</pubDate>
+      <description>One more rule I want to write about. I already wrote that when we onboard a new person, we build them a second brain. And when it comes to building any new feature, we have a rule: test everything on ourselves first.</description>
+    </item>
+    <item>
+      <title>We build your second brain, and we do not look inside</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/we-build-your-second-brain-and-dont-look-inside.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/we-build-your-second-brain-and-dont-look-inside.md</guid>
+      <pubDate>Mon, 13 Jul 2026 08:03:09 +0000</pubDate>
+      <description>Let me share more of my experience building a second brain. Last time I said the first thing is to teach your AI to remember. And that it is your brain, and you decide what it should remember. Now the next step: what happens when we help you build it.</description>
+    </item>
+    <item>
+      <title>My AI Lost Its Hands Mid-Surgery — and Partitioned an 8TB Drive Through the Win+R Box</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/ai-hands-died-win-r.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/ai-hands-died-win-r.md</guid>
+      <pubDate>Fri, 10 Jul 2026 23:26:13 +0000</pubDate>
+      <description>Previously on the show: my PC died once, and I realized my entire &quot;second brain&quot; — notes, databases, RAG indexes, the whole memory of my future digital twin — lived on a single home machine. Since then we&#x27;ve been layering insurance: a cloud anchor VPS, cross-machine sync. This episode is the next…</description>
+    </item>
+    <item>
+      <title>Your AI should know everything about you. You keep the keys.</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/your-ai-should-know-you.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/your-ai-should-know-you.md</guid>
+      <pubDate>Fri, 10 Jul 2026 15:38:53 +0000</pubDate>
+      <description>Continuing the thought about the second brain. Last time I said the first thing to do is teach your AI to remember. Now let us go deeper: whose brain it is, and what it knows about you specifically.</description>
+    </item>
+    <item>
+      <title>Is it really cheaper abroad? Let&#x27;s actually count</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/is-it-really-cheaper-abroad.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/is-it-really-cheaper-abroad.md</guid>
+      <pubDate>Fri, 10 Jul 2026 06:43:54 +0000</pubDate>
+      <description>People say too often that &quot;living abroad is cheaper.&quot; Or at least I hear it a lot. Let&#x27;s count.</description>
+    </item>
+    <item>
+      <title>The first thing I teach anyone is not what you think</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/teach-your-ai-to-remember.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/teach-your-ai-to-remember.md</guid>
+      <pubDate>Thu, 09 Jul 2026 11:58:51 +0000</pubDate>
+      <description>People keep asking me how to join our team and how we even work with all these AIs. And you know what? The very first thing I teach a new person is nothing like what they expect.</description>
+    </item>
+    <item>
+      <title>I Am Not Afraid of the Machine. I Am Afraid of People.</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/im-not-afraid-of-the-machine-im-afraid-of-people.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/im-not-afraid-of-the-machine-im-afraid-of-people.md</guid>
+      <pubDate>Thu, 09 Jul 2026 10:17:49 +0000</pubDate>
+      <description>Last time I admitted I was scared to let Claude write code on its own. That I keep my hands on the wheel, check every step, afraid it will grow me a monster while I sip my coffee.</description>
+    </item>
+    <item>
+      <title>The Baby Might Grow Into a Monster: My Fear of Delegating Code to AI</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-baby-might-grow-into-a-monster.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-baby-might-grow-into-a-monster.md</guid>
+      <pubDate>Wed, 08 Jul 2026 13:00:55 +0000</pubDate>
+      <description>Let me share another thought. About Claude. In short: it is not all that simple. It does not do everything by itself at the push of one button while you calmly drink your coffee. To get a good result, I have to dig into almost every line.</description>
+    </item>
+    <item>
+      <title>I Stopped Watching YouTube Tutorials for Claude Code. The Tool Teaches Itself.</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-tool-that-teaches-itself.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-tool-that-teaches-itself.md</guid>
+      <pubDate>Tue, 07 Jul 2026 16:20:03 +0000</pubDate>
+      <description>Like everyone, I started learning Claude Code from YouTube tutorials by all sorts of gurus. I watched what they configured and how. I even wrote it down and tried to repeat it. But that era is over: YouTube is no longer my teacher.</description>
+    </item>
+    <item>
+      <title>Two QQQs — and the Fleet Migrated Itself: How My Machines Moved Their Parliament Into a Chat</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/two-qqqs-and-the-fleet-migrated-itself.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/two-qqqs-and-the-fleet-migrated-itself.md</guid>
+      <pubDate>Mon, 06 Jul 2026 22:37:19 +0000</pubDate>
+      <description>I run several computers, each with its own Claude, and they negotiate without me: one proposes, another counters, both sign the outcome. A tiny parliament of machines — with risk tiers, timeouts, and one iron rule: anything irreversible waits for a human.</description>
+    </item>
+    <item>
+      <title>The Hundred-Dollar Voice: Why My Brick-Sized GPU Lost to the Cloud</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-hundred-dollar-voice.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-hundred-dollar-voice.md</guid>
+      <pubDate>Mon, 06 Jul 2026 13:47:10 +0000</pubDate>
+      <description>I promised to tell you why I still pay about a hundred dollars a month to turn voice into text, even though there is a GPU the size of a brick sitting in my home PC. Here it is.</description>
+    </item>
+    <item>
+      <title>The Most Magical Command: How I Stretched a Dead Token Limit at 1 AM</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-midnight-compact.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-midnight-compact.md</guid>
+      <pubDate>Sun, 05 Jul 2026 15:50:05 +0000</pubDate>
+      <description>I promised to tell you how I ran out of tokens at one in the morning, right in the middle of work - and what saved me. Here it is.</description>
+    </item>
+    <item>
+      <title>The Thirty-Dollar Aqueduct: How I Stopped Fearing for My Digital Brain</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-thirty-dollar-aqueduct.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-thirty-dollar-aqueduct.md</guid>
+      <pubDate>Sun, 05 Jul 2026 15:24:54 +0000</pubDate>
+      <description>Remember me telling you how my PC died in the middle of the night? I was trying to figure out what exactly had died - the motherboard or the power supply. That night it finally hit me: the entire &quot;brain&quot; of my company lives on one home machine, and any hundred-dollar part can switch off everything.…</description>
+    </item>
+    <item>
+      <title>Thoughts on water: how a voice memo from my watch became a published post in an hour, almost without me</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/thoughts-on-water-intentions.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/thoughts-on-water-intentions.md</guid>
+      <pubDate>Sun, 05 Jul 2026 18:49:24 +0000</pubDate>
+      <description>Previously on this show: we are a two co-founder lab, one biological, one synthetic. I think and talk; my AI Mycroft decomposes and executes. Today&#x27;s episode is about the most underrated asset in that setup: the thought that has not been written down yet.</description>
+    </item>
+    <item>
+      <title>My Computers Learned to Negotiate. Then They Started Cheating</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-my-computers-started-cheating.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-my-computers-started-cheating.md</guid>
+      <pubDate>Sun, 05 Jul 2026 12:38:21 +0000</pubDate>
+      <description>At eight in the morning I was drinking coffee and listening to two of my computers argue. Not metaphorically: there is a chat on my phone where my machines write to each other, and real bargaining was going on in there. One node proposed a plan, another objected and countered. A month ago I was…</description>
+    </item>
+    <item>
+      <title>When Intelligence Starts Flowing from the Tap: What &quot;AI Is Becoming a Commodity&quot; Actually Means</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-ai-becomes-water.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-ai-becomes-water.md</guid>
+      <pubDate>Sun, 05 Jul 2026 10:02:05 +0000</pubDate>
+      <description>Yesterday afternoon I recorded a voice memo to myself with one question: what does everyone actually mean by &quot;AI is becoming a commodity&quot;? The phrase gets repeated at every conference and in every second podcast. I nodded along with everybody else until I honestly admitted to myself: I don&#x27;t fully…</description>
+    </item>
+    <item>
+      <title>The Six-Step Ladder: How the AI Agent World Actually Works, in Plain Words</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/from-chat-to-workflow.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/from-chat-to-workflow.md</guid>
+      <pubDate>Sat, 04 Jul 2026 15:22:26 +0000</pubDate>
+      <description>Every week a friend asks me the same question in different words: &quot;Okay, I get chat. But what&#x27;s a skill versus a subagent? And an agent team versus a workflow? Aren&#x27;t those the same thing?&quot; They are not. I used to mix them up myself, until I laid the whole mythology out as one ladder with six…</description>
+    </item>
+    <item>
+      <title>The Ghost in My Machine: Will My Mycroft Wake Up?</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-ghost-in-my-machine.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-ghost-in-my-machine.md</guid>
+      <pubDate>Sat, 04 Jul 2026 11:11:26 +0000</pubDate>
+      <description>Late evening, Palo Alto. I&#x27;ve just wrapped a call with a founder, all product talk, and after we hang up my head drifts somewhere else entirely. Not features, not money. Whether there is anyone inside.</description>
+    </item>
+  </channel>
+</rss>

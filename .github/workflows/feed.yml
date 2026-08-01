@@ -1,0 +1,49 @@
+name: Rebuild feed.xml
+
+# The essays live here, so the RSS feed is generated here (one owner, no copies).
+# Consumers: the profile README at github.com/Palo-Alto-AI-Research-Lab, and any
+# feed reader pointed at .../clawrush/raw/main/feed.xml
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'longreads/**.md'
+      - 'tools/build_feed.py'
+      - '.github/workflows/feed.yml'
+  schedule:
+    # 03:00 UTC = 04:00 Lisbon — inside the fleet's night window (23:00-06:00).
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # build_feed.py dates each post from the commit that ADDED it
+
+      - name: Self-test the generator
+        run: python3 tools/_test_build_feed.py
+
+      - name: Rebuild feed.xml
+        run: python3 tools/build_feed.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- feed.xml; then
+            echo "feed.xml unchanged — nothing to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git commit -m "feed: rebuild from longreads/ [skip ci]"
+          git push
