@@ -28,8 +28,10 @@ Updated as the work actually happens, not polished after the fact.
 
 The model avatars you may see among contributors are not decoration — Claude
 writes the code, Codex and Grok review it, Gemini feeds the research. Each
-gets a `Co-authored-by` credit only on commits its output actually shaped:
-[docs/ai-contributors.md](docs/ai-contributors.md).
+gets a `Co-authored-by` credit only on commits its output actually shaped —
+lab-wide policy in
+[AI-CONTRIBUTORS.md](https://github.com/Palo-Alto-AI-Research-Lab/.github/blob/main/AI-CONTRIBUTORS.md),
+what it means for this diary in [docs/ai-contributors.md](docs/ai-contributors.md).
 
 ## Links
 
