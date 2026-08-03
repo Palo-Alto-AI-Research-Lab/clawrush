@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 01:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 06:58:00 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A full recall before every session, or the work does not start</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-full-recall-before-every-session.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-full-recall-before-every-session.md</guid>
+      <pubDate>Mon, 03 Aug 2026 06:57:46 +0000</pubDate>
+      <description>One more of my hard rules for working with my AI.</description>
+    </item>
     <item>
       <title>The fix worked. The failure just got quieter.</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-failure-just-got-quieter.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-thirty-dollar-aqueduct.md</guid>
       <pubDate>Sun, 05 Jul 2026 15:24:54 +0000</pubDate>
       <description>Remember me telling you how my PC died in the middle of the night? I was trying to figure out what exactly had died - the motherboard or the power supply. That night it finally hit me: the entire &quot;brain&quot; of my company lives on one home machine, and any hundred-dollar part can switch off everything.…</description>
-    </item>
-    <item>
-      <title>My Computers Learned to Negotiate. Then They Started Cheating</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-my-computers-started-cheating.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-my-computers-started-cheating.md</guid>
-      <pubDate>Sun, 05 Jul 2026 12:38:21 +0000</pubDate>
-      <description>At eight in the morning I was drinking coffee and listening to two of my computers argue. Not metaphorically: there is a chat on my phone where my machines write to each other, and real bargaining was going on in there. One node proposed a plan, another objected and countered. A month ago I was…</description>
     </item>
   </channel>
 </rss>
