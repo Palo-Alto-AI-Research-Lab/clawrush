@@ -1,18 +1,20 @@
 # I am looking for the most ambitious case of a synthetic person, and I mean it seriously
 
-i have an open question, and i am asking it seriously
+i have a request
 
-i am looking for the most ambitious case of a synthetic person. not a demo. not a clip set to music. a real case
+i am looking for the most ambitious case of a synthetic person. not a demo. not a clip set to music, but a real case
 
-what these characters already do on their own. use a crypto wallet. hire and fire people. get themselves a job. something that makes an ordinary person say: wait, that is something i can do too
+what these characters already do on their own: use a crypto wallet, hire and fire people, get themselves a job.
+something that makes an ordinary person say: wait, that is something i can do too
 
-examples like "wrote a text" or "replied in a chat" are not what i need. that has been normal for a long time, and it proves nothing. what interests me is the line past which a synthetic person takes an action in the real world and bears the consequences for it. does not imitate the action, but performs it
+examples like "wrote a text" or "replied in a chat" are not what i need. that has been normal for a long time, and it proves nothing
+what interests me is the line past which a synthetic person takes an action in the real world and bears the consequences for it. does not imitate the action, but actually performs it
 
-and i am also interested in the cost of a mistake. because where there are consequences, there is also failure. a character that can hire a person can also hire the wrong one
+and i am also interested in the cost of a mistake, because where there are consequences, there are also risks
 
-i am not asking out of curiosity. i am building such a person right now, and i need a reference point to aim at. without one i will keep improving what already works, instead of moving the line
+i am not asking out of curiosity. i am building such a person right now, and i need a reference point to aim at. without one i will keep improving what already works, instead of moving forward
 
-if you have seen a case like this, send the link. especially if it ended badly. failures are more useful than showcases
+if you have seen a case like this, send the link. especially if it ended badly, studying failures and mistakes is often more useful for moving forward
 
 · · ·
 
