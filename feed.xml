@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 06:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:34:28 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I make my AI smarter every day, and I never trust one model blindly</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/i-make-my-ai-smarter-every-day.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/i-make-my-ai-smarter-every-day.md</guid>
+      <pubDate>Tue, 04 Aug 2026 08:34:18 +0000</pubDate>
+      <description>I make my AI smarter every day.</description>
+    </item>
     <item>
       <title>A full recall before every session, or the work does not start</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-full-recall-before-every-session.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-midnight-compact.md</guid>
       <pubDate>Sun, 05 Jul 2026 15:50:05 +0000</pubDate>
       <description>I promised to tell you how I ran out of tokens at one in the morning, right in the middle of work - and what saved me. Here it is.</description>
-    </item>
-    <item>
-      <title>The Thirty-Dollar Aqueduct: How I Stopped Fearing for My Digital Brain</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-thirty-dollar-aqueduct.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-thirty-dollar-aqueduct.md</guid>
-      <pubDate>Sun, 05 Jul 2026 15:24:54 +0000</pubDate>
-      <description>Remember me telling you how my PC died in the middle of the night? I was trying to figure out what exactly had died - the motherboard or the power supply. That night it finally hit me: the entire &quot;brain&quot; of my company lives on one home machine, and any hundred-dollar part can switch off everything.…</description>
     </item>
   </channel>
 </rss>
