@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 08:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 12:12:41 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I am looking for the most ambitious case of a synthetic person, and I mean it seriously</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-most-ambitious-case-of-a-synthetic-person.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-most-ambitious-case-of-a-synthetic-person.md</guid>
+      <pubDate>Tue, 04 Aug 2026 12:12:31 +0000</pubDate>
+      <description>i have an open question, and i am asking it seriously</description>
+    </item>
     <item>
       <title>I make my AI smarter every day, and I never trust one model blindly</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/i-make-my-ai-smarter-every-day.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/thoughts-on-water-intentions.md</guid>
       <pubDate>Sun, 05 Jul 2026 18:49:24 +0000</pubDate>
       <description>Previously on this show: we are a two co-founder lab, one biological, one synthetic. I think and talk; my AI Mycroft decomposes and executes. Today&#x27;s episode is about the most underrated asset in that setup: the thought that has not been written down yet.</description>
-    </item>
-    <item>
-      <title>The Most Magical Command: How I Stretched a Dead Token Limit at 1 AM</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-midnight-compact.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-midnight-compact.md</guid>
-      <pubDate>Sun, 05 Jul 2026 15:50:05 +0000</pubDate>
-      <description>I promised to tell you how I ran out of tokens at one in the morning, right in the middle of work - and what saved me. Here it is.</description>
     </item>
   </channel>
 </rss>
