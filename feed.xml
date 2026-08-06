@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:28:08 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Face of Knowing Too Much</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-face-of-knowing-too-much.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-face-of-knowing-too-much.md</guid>
+      <pubDate>Thu, 06 Aug 2026 09:27:50 +0000</pubDate>
+      <description>Fourth part of the thought about history and knowing. It follows directly from the last one, where the whole point was that the one who starts digging cannot sleep.</description>
+    </item>
     <item>
       <title>The More I Learn, the Less I Sleep</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-more-i-learn-the-less-i-sleep.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/teach-your-ai-to-remember.md</guid>
       <pubDate>Thu, 09 Jul 2026 11:58:51 +0000</pubDate>
       <description>People keep asking me how to join our team and how we even work with all these AIs. And you know what? The very first thing I teach a new person is nothing like what they expect.</description>
-    </item>
-    <item>
-      <title>I Am Not Afraid of the Machine. I Am Afraid of People.</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/im-not-afraid-of-the-machine-im-afraid-of-people.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/im-not-afraid-of-the-machine-im-afraid-of-people.md</guid>
-      <pubDate>Thu, 09 Jul 2026 10:17:49 +0000</pubDate>
-      <description>Last time I admitted I was scared to let Claude write code on its own. That I keep my hands on the wheel, check every step, afraid it will grow me a monster while I sip my coffee.</description>
     </item>
   </channel>
 </rss>
