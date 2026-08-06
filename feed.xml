@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:59:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 12:16:15 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A Trigger on Volume</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-trigger-on-volume.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-trigger-on-volume.md</guid>
+      <pubDate>Thu, 06 Aug 2026 12:16:04 +0000</pubDate>
+      <description>Another rule for my agent. It follows the one about recall.</description>
+    </item>
     <item>
       <title>Watched, Not Subscribed</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/watched-not-subscribed.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/why-ai-writing-reads-like-a-robot.md</guid>
       <pubDate>Mon, 13 Jul 2026 16:36:18 +0000</pubDate>
       <description>Yes, AI texts annoy me too. When you read a post and you just know a human did not write it. I think about this all the time, including when I make my own texts together with an AI. Too smooth, too correct, not human at all.</description>
-    </item>
-    <item>
-      <title>We test everything on ourselves first</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/we-test-everything-on-ourselves-first.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/we-test-everything-on-ourselves-first.md</guid>
-      <pubDate>Mon, 13 Jul 2026 09:51:37 +0000</pubDate>
-      <description>One more rule I want to write about. I already wrote that when we onboard a new person, we build them a second brain. And when it comes to building any new feature, we have a rule: test everything on ourselves first.</description>
     </item>
   </channel>
 </rss>
