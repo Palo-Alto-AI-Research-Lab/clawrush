@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:51:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:12:50 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The More I Learn, the Less I Sleep</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-more-i-learn-the-less-i-sleep.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-more-i-learn-the-less-i-sleep.md</guid>
+      <pubDate>Thu, 06 Aug 2026 09:12:39 +0000</pubDate>
+      <description>Third and shortest part of the thought about history and outside influence. Part one argued that the influence hiding in plain sight is money. Part two asked what you would give an anthill if you wanted it to reach space. This one is what is left after both.</description>
+    </item>
     <item>
       <title>If You Wanted Ants to Reach Space, You Would Give Them Money</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/ants-and-the-experimenter.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/im-not-afraid-of-the-machine-im-afraid-of-people.md</guid>
       <pubDate>Thu, 09 Jul 2026 10:17:49 +0000</pubDate>
       <description>Last time I admitted I was scared to let Claude write code on its own. That I keep my hands on the wheel, check every step, afraid it will grow me a monster while I sip my coffee.</description>
-    </item>
-    <item>
-      <title>The Baby Might Grow Into a Monster: My Fear of Delegating Code to AI</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-baby-might-grow-into-a-monster.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-baby-might-grow-into-a-monster.md</guid>
-      <pubDate>Wed, 08 Jul 2026 13:00:55 +0000</pubDate>
-      <description>Let me share another thought. About Claude. In short: it is not all that simple. It does not do everything by itself at the push of one button while you calmly drink your coffee. To get a good result, I have to dig into almost every line.</description>
     </item>
   </channel>
 </rss>
