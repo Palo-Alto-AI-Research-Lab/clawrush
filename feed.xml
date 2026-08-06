@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:51:14 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>If You Wanted Ants to Reach Space, You Would Give Them Money</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/ants-and-the-experimenter.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/ants-and-the-experimenter.md</guid>
+      <pubDate>Thu, 06 Aug 2026 08:50:57 +0000</pubDate>
+      <description>This continues the thought about Homo sapiens and outside influence. Part one is here.</description>
+    </item>
     <item>
       <title>The Influence Is Not the Pyramids. I Think It Is Money.</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/hidden-in-plain-sight-money.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-baby-might-grow-into-a-monster.md</guid>
       <pubDate>Wed, 08 Jul 2026 13:00:55 +0000</pubDate>
       <description>Let me share another thought. About Claude. In short: it is not all that simple. It does not do everything by itself at the push of one button while you calmly drink your coffee. To get a good result, I have to dig into almost every line.</description>
-    </item>
-    <item>
-      <title>I Stopped Watching YouTube Tutorials for Claude Code. The Tool Teaches Itself.</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-tool-that-teaches-itself.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-tool-that-teaches-itself.md</guid>
-      <pubDate>Tue, 07 Jul 2026 16:20:03 +0000</pubDate>
-      <description>Like everyone, I started learning Claude Code from YouTube tutorials by all sorts of gurus. I watched what they configured and how. I even wrote it down and tried to repeat it. But that era is over: YouTube is no longer my teacher.</description>
     </item>
   </channel>
 </rss>
