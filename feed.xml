@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 08:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:21:20 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Influence Is Not the Pyramids. I Think It Is Money.</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/hidden-in-plain-sight-money.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/hidden-in-plain-sight-money.md</guid>
+      <pubDate>Thu, 06 Aug 2026 08:21:11 +0000</pubDate>
+      <description>Some thoughts on our development as Homo sapiens.</description>
+    </item>
     <item>
       <title>Measure the door before you knock</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/measure-the-door-before-you-knock.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-tool-that-teaches-itself.md</guid>
       <pubDate>Tue, 07 Jul 2026 16:20:03 +0000</pubDate>
       <description>Like everyone, I started learning Claude Code from YouTube tutorials by all sorts of gurus. I watched what they configured and how. I even wrote it down and tried to repeat it. But that era is over: YouTube is no longer my teacher.</description>
-    </item>
-    <item>
-      <title>Two QQQs — and the Fleet Migrated Itself: How My Machines Moved Their Parliament Into a Chat</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/two-qqqs-and-the-fleet-migrated-itself.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/two-qqqs-and-the-fleet-migrated-itself.md</guid>
-      <pubDate>Mon, 06 Jul 2026 22:37:19 +0000</pubDate>
-      <description>I run several computers, each with its own Claude, and they negotiate without me: one proposes, another counters, both sign the outcome. A tiny parliament of machines — with risk tiers, timeouts, and one iron rule: anything irreversible waits for a human.</description>
     </item>
   </channel>
 </rss>
