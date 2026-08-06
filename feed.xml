@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:59:39 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Watched, Not Subscribed</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/watched-not-subscribed.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/watched-not-subscribed.md</guid>
+      <pubDate>Thu, 06 Aug 2026 11:59:29 +0000</pubDate>
+      <description>More on analysing YouTube watch history and building a system out of it. The first part is here.</description>
+    </item>
     <item>
       <title>Recall First. Then Hand Me a Prompt.</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/recall-first-then-hand-me-a-prompt.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/we-test-everything-on-ourselves-first.md</guid>
       <pubDate>Mon, 13 Jul 2026 09:51:37 +0000</pubDate>
       <description>One more rule I want to write about. I already wrote that when we onboard a new person, we build them a second brain. And when it comes to building any new feature, we have a rule: test everything on ourselves first.</description>
-    </item>
-    <item>
-      <title>We build your second brain, and we do not look inside</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/we-build-your-second-brain-and-dont-look-inside.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/we-build-your-second-brain-and-dont-look-inside.md</guid>
-      <pubDate>Mon, 13 Jul 2026 08:03:09 +0000</pubDate>
-      <description>Let me share more of my experience building a second brain. Last time I said the first thing is to teach your AI to remember. And that it is your brain, and you decide what it should remember. Now the next step: what happens when we help you build it.</description>
     </item>
   </channel>
 </rss>
