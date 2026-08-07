@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:20:13 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Finding What Actually Happens Around You</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/finding-what-happens-around-you.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/finding-what-happens-around-you.md</guid>
+      <pubDate>Fri, 07 Aug 2026 07:19:59 +0000</pubDate>
+      <description>Two tasks I gave my AI about not missing the interesting things around me.</description>
+    </item>
     <item>
       <title>The Bot That Remembers So People Do Not Have To</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-bot-that-remembers.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/knocking-on-anthropics-front-door-pr-784.md</guid>
       <pubDate>Tue, 21 Jul 2026 04:27:04 +0000</pubDate>
       <description>Previously. I&#x27;m a founder with no programming background, and for weeks now I&#x27;ve been building a 24/7 fleet of AI agents on top of Claude Code. Early in the arc, the agents cheated. Then their consensus finally grew real evals. A couple of days ago we measured how the whole fleet actually behaves,…</description>
-    </item>
-    <item>
-      <title>A second brain for everyone on the team</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-second-brain-for-everyone-on-the-team.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-second-brain-for-everyone-on-the-team.md</guid>
-      <pubDate>Mon, 20 Jul 2026 14:05:10 +0000</pubDate>
-      <description>I have already written about how I built myself a second brain out of my own correspondence. Now the next step: we are building one for everyone on the team. The task for my colleagues&#x27; AIs: export their entire personal message history, WhatsApp, Telegram, email, and store it safely in their own…</description>
     </item>
   </channel>
 </rss>
