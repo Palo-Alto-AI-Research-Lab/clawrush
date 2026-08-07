@@ -20,7 +20,7 @@ Personal history, YouTube and browser, is an unusually rich corpus and an unusua
 ## Honest boundary
 What exists is the liked-only path with quarantine and creator attribution. The full sweep the post describes, the whole browser history across all years processed into a timeline of taste, is not built. Saying otherwise would be exactly the stale claim the previous entry in this log was about.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/my-youtube-history-into-the-vault.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
