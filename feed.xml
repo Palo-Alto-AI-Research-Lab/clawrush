@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:35:55 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Live Show Pipeline</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-live-show-pipeline.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-live-show-pipeline.md</guid>
+      <pubDate>Fri, 07 Aug 2026 10:35:45 +0000</pubDate>
+      <description>Americans know how to do show business. Out of any thing where something is happening, they make a show: series, documentaries, music, the heat of it.</description>
+    </item>
     <item>
       <title>Finding What Actually Happens Around You</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/finding-what-happens-around-you.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/building-in-the-open-like-karpathy.md</guid>
       <pubDate>Tue, 21 Jul 2026 08:33:31 +0000</pubDate>
       <description>I have thought up one more thing. First I will study Andrej Karpathy&#x27;s GitHub, his repositories, his approach, what he published and where. And then I will come and say what I built for myself in the same image and likeness. And all my work is open, anyone can take it and build the same thing.…</description>
-    </item>
-    <item>
-      <title>A non-coder knocked on Anthropic&#x27;s front door — with a recipe about not trusting the AI</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/knocking-on-anthropics-front-door-pr-784.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/knocking-on-anthropics-front-door-pr-784.md</guid>
-      <pubDate>Tue, 21 Jul 2026 04:27:04 +0000</pubDate>
-      <description>Previously. I&#x27;m a founder with no programming background, and for weeks now I&#x27;ve been building a 24/7 fleet of AI agents on top of Claude Code. Early in the arc, the agents cheated. Then their consensus finally grew real evals. A couple of days ago we measured how the whole fleet actually behaves,…</description>
     </item>
   </channel>
 </rss>
