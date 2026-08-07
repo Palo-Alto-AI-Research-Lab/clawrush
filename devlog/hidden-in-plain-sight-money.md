@@ -28,7 +28,7 @@ One post, five stops, strict order: Facebook (human posts by hand) then GitHub l
 ## Verification
 Seventeen gate tests, all green, proven able to go red by mutation: removing the placeholder check, the approval hash comparison, or the stop flag each turns the suite red. Both live rails were exercised end to end on 2026-08-06, a file written to this repository, read back, and deleted again, and a Telegram message sent to Saved Messages only. Nothing was published to any channel during the build.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/hidden-in-plain-sight-money.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
