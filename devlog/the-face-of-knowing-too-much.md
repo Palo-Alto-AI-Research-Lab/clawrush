@@ -18,7 +18,7 @@
 ## The measurement
 Four posts published today through the full chain, one deliberately skipped and recorded as such, twenty-eight gate tests green, and one dashboard relocated after a fleet rule changed where dashboards are allowed to live.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/the-face-of-knowing-too-much.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
