@@ -20,7 +20,7 @@
 ## The measurement
 Twenty-six gate tests, green, and proven able to fail: removing the placeholder check, the approval hash comparison, or the stop flag each turns the suite red. Two posts have now travelled the full chain end to end.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/ants-and-the-experimenter.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
