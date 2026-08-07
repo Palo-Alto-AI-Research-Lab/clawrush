@@ -22,7 +22,7 @@ A registry of every group across several accounts sounds like an inventory task.
 **Cause.** Usefulness was recorded once, at classification time, with no clock on it.
 **Solution.** Every row carries the date it was last actually useful, and a classification older than its shelf life reads as stale rather than current. Same rule as everywhere else here: a fact without a date is a rumour with good posture.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/a-registry-of-every-telegram-group.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
