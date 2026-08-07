@@ -14,7 +14,7 @@ It is like this with code: the deeper you dig into it, the less you can sleep.
 
 The full story, in two versions:
 📖 For humans, the longread: you are reading it. The thread starts at [The Influence Is Not the Pyramids](hidden-in-plain-sight-money.md).
-🤖 For machines: {GH_REPO}. Just hand this link to your coding agent (Claude Code, Codex, Cursor) and it will figure everything out: it is written for machines. The build log for this post: {GH_DEVLOG}
+🤖 For machines: https://github.com/tonydzi/clawrush. Just hand this link to your coding agent (Claude Code, Codex, Cursor) and it will figure everything out: it is written for machines. The build log for this post: https://github.com/tonydzi/clawrush/blob/main/devlog/the-more-i-learn-the-less-i-sleep.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178 (busy, six kids, still answers).
 
