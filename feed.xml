@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 05:49:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:22:13 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wild Thoughts in My Head</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/humans-versus-tokens.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/humans-versus-tokens.md</guid>
+      <pubDate>Fri, 07 Aug 2026 06:22:05 +0000</pubDate>
+      <description>About people. And replaceability.</description>
+    </item>
     <item>
       <title>Wake on Event, Not on Schedule</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/wake-on-event-not-on-schedule.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/non-coders-need-claude-code-too.md</guid>
       <pubDate>Fri, 17 Jul 2026 17:46:15 +0000</pubDate>
       <description>There is an important thought I want to get across. Say you are not a coder, just a regular guy. You work for someone for a salary, at a factory, you write texts. It does not matter at all what you do for a living.</description>
-    </item>
-    <item>
-      <title>When your ship becomes a pizzeria: drift sessions</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-your-ship-becomes-a-pizzeria-drift-sessions.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-your-ship-becomes-a-pizzeria-drift-sessions.md</guid>
-      <pubDate>Thu, 16 Jul 2026 13:52:09 +0000</pubDate>
-      <description>Lately I keep getting that feeling when you are working on some thing and, well, &quot;started with a bang, ended with a whimper&quot;. Or when you set out to build a ship and end up with, I don&#x27;t know... something like a pizzeria.</description>
     </item>
   </channel>
 </rss>
