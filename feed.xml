@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 04:51:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 05:49:22 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wake on Event, Not on Schedule</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/wake-on-event-not-on-schedule.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/wake-on-event-not-on-schedule.md</guid>
+      <pubDate>Fri, 07 Aug 2026 05:49:03 +0000</pubDate>
+      <description>Robots are usually launched on a schedule: once an hour it goes in, checks, leaves. Or maybe that is not usual, but those are the cases I keep running into.</description>
+    </item>
     <item>
       <title>A Registry of Every Telegram Group</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-registry-of-every-telegram-group.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/when-your-ship-becomes-a-pizzeria-drift-sessions.md</guid>
       <pubDate>Thu, 16 Jul 2026 13:52:09 +0000</pubDate>
       <description>Lately I keep getting that feeling when you are working on some thing and, well, &quot;started with a bang, ended with a whimper&quot;. Or when you set out to build a ship and end up with, I don&#x27;t know... something like a pizzeria.</description>
-    </item>
-    <item>
-      <title>My retro button: every session becomes memory</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/my-retro-button-turns-sessions-into-memory.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/my-retro-button-turns-sessions-into-memory.md</guid>
-      <pubDate>Thu, 16 Jul 2026 10:14:26 +0000</pubDate>
-      <description>A neat little thing I came up with for myself. Maybe I am not the smartest guy in the village, but I invented a &quot;retro&quot; button. I just type /retro at the end of the work.</description>
     </item>
   </channel>
 </rss>
