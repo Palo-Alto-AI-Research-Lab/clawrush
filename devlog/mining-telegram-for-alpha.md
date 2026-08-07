@@ -22,7 +22,7 @@ Parsing chat archives for useful advice is technically easy and ethically load-b
 **Cause.** Storing raw text is easier than storing a lesson plus a pointer.
 **Solution.** Keep the lesson and the link. Verbatim quotes only where they are short, attributed and genuinely necessary. And an honest boundary about scale: we read what our own account can legitimately see, we do not run a scraper farm, and we do not pretend the grey areas are white.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/mining-telegram-for-alpha.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
