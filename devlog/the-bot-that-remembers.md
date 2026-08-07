@@ -26,7 +26,7 @@ Extracting commitments from unstructured conversation is the easy-looking half. 
 ## The design goal, stated plainly
 Not accountability to the bot. The bot exists so the list lives somewhere other than a human head. Once it feels like supervision, people start managing the bot instead of the work, and the tracker becomes another thing to maintain.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/the-bot-that-remembers.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
