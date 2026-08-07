@@ -23,7 +23,7 @@ Three kinds of stored knowledge rot this way and all three read as current:
 ## Honest boundary
 The general mechanism the post asks for, an expiry date attached to every note with the system flagging what is due for refresh, is not built. What exists today is the narrow version above: a rule for verdicts, a rule for causes, and a check for existence claims. Calling that the full thing would be exactly the kind of stale claim this entry is about.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/knowledge-has-an-expiry-date.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
