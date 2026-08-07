@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:50:08 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Agent Interface, Not User Interface</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/agent-interface-not-user-interface.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/agent-interface-not-user-interface.md</guid>
+      <pubDate>Fri, 07 Aug 2026 17:49:50 +0000</pubDate>
+      <description>I will continue my thought about how I see the near future. There used to be a User Interface, and now every company will build an Agent Interface.</description>
+    </item>
     <item>
       <title>Make Your AI Admit It Failed</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/make-your-ai-admit-it-failed.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-gotcha-checker-mines-my-ai-mistakes.md</guid>
       <pubDate>Fri, 24 Jul 2026 05:24:21 +0000</pubDate>
       <description>Let me tell you about one thing I set up for myself. I call it the gotcha-checker. Gotchas, you get the idea, are our repeating screw-ups. The spots where my AI trips, walks in circles, and does not give me a result. And in every session those gotchas get logged.</description>
-    </item>
-    <item>
-      <title>A second opinion: my Codex checks my Claude before I act</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-second-opinion-codex-checks-my-claude.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-second-opinion-codex-checks-my-claude.md</guid>
-      <pubDate>Thu, 23 Jul 2026 13:15:59 +0000</pubDate>
-      <description>We introduced one thing at our shop, we call it Second Opinion. A second opinion. My main agent is Claude, and the second opinion is Codex from ChatGPT. That kind of safety net. Now my AI goes and asks the other AI: am I being dumb here? This matters most with the ad account. Where there is money,…</description>
     </item>
   </channel>
 </rss>
