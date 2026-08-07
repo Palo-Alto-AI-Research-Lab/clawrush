@@ -22,7 +22,7 @@ Handing work to an external model is two halves. The outbound half, a prompt wit
 **Cause.** The lifecycle ended at "answer received".
 **Solution.** Each request names its consumer at creation and closes as applied, with what changed, or parked, with why. Both are endings; silence is not.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/a-trigger-on-volume.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
