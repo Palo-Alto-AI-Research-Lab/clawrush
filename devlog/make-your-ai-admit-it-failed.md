@@ -20,7 +20,7 @@ The post above states four rules for an agent's self-reporting. This is what the
 ## The rule that costs the most discipline
 "If the conclusion suits you, verify harder." Two of the three cases above produced a conclusion that ended work: nothing is there, the rule says send it elsewhere. Conclusions that end work generate no friction, and no friction means no second look. This is the one rule that cannot be enforced by a guard, only by a habit of distrusting convenient answers.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/make-your-ai-admit-it-failed.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
