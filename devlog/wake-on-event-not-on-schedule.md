@@ -25,7 +25,7 @@ Replacing a polling loop with an event dispatcher removes latency and adds four 
 ## The rule that outranks all four
 Faster triggers do not change what needs a human. Anything irreversible or outward-facing still stops and asks, no matter how quickly the event fired. An instant robot that publishes something wrong instantly is not an improvement.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/wake-on-event-not-on-schedule.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
