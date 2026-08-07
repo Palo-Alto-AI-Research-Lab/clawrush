@@ -27,7 +27,7 @@ Two agents can agree on an order and both be wrong about the address. Somewhere 
 
 Also unverified: whether production company-to-company agent transactions are actually common today. MCP and A2A exist as protocols; that is not evidence of a live market. Open research question, not a claim.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/agent-interface-not-user-interface.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
