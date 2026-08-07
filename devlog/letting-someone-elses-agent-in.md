@@ -27,7 +27,7 @@ Exposing an outreach system over MCP so third-party agents can use it is a secur
 ## Honest state
 None of this exists here as a public MCP. What exists is internal machinery for our own outreach. The list above is what we would hold ourselves to before opening one door, not a description of a shipped system. Saying otherwise would be the exact stale claim this repo keeps writing about.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/letting-someone-elses-agent-in.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
