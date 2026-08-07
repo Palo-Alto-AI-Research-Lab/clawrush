@@ -25,7 +25,7 @@ The scheduler is the least discussed component of an agent stack and the one tha
 ## The unglamorous conclusion
 None of this makes the model smarter. It makes the agent present when something happens, and presence is most of the distance between a demo and a system.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/who-wakes-your-agent.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
