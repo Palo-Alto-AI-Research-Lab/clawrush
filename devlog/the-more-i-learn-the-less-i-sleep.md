@@ -15,7 +15,7 @@
 ## What generalizes
 A generated dashboard is a claim about a source, not the source. If nothing verifies that the source exists, the dashboard will happily keep reporting the last number it ever computed. The check is cheap: ask where the file is, on every machine, before trusting the number on the screen.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/the-more-i-learn-the-less-i-sleep.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
