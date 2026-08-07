@@ -25,7 +25,7 @@ Turning a watch history into a monitored feed of authors is mostly an economics 
 ## Honest boundary
 What runs today is the liked-only path with quarantine and creator attribution, from the previous entry. Ranking authors by rewatch, continuous monitoring of a chosen set, and per-topic overlap search are described here as design, not as shipped. The order in the post is the plan; this log is what we already know will bite.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/watched-not-subscribed.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
