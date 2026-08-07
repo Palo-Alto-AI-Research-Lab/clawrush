@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:28:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:39:31 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Make Your AI Admit It Failed</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/make-your-ai-admit-it-failed.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/make-your-ai-admit-it-failed.md</guid>
+      <pubDate>Fri, 07 Aug 2026 11:39:13 +0000</pubDate>
+      <description>I dictate tasks to my AI and realise I am repeating myself. Again I am saying that if it stumbles on something, for example it searches for files on drive C when everything is on drive E and C only holds scripts and skills, we need some way to debug that.</description>
+    </item>
     <item>
       <title>Letting Someone Else&#x27;s Agent Into Your Database</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/letting-someone-elses-agent-in.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-second-opinion-codex-checks-my-claude.md</guid>
       <pubDate>Thu, 23 Jul 2026 13:15:59 +0000</pubDate>
       <description>We introduced one thing at our shop, we call it Second Opinion. A second opinion. My main agent is Claude, and the second opinion is Codex from ChatGPT. That kind of safety net. Now my AI goes and asks the other AI: am I being dumb here? This matters most with the ad account. Where there is money,…</description>
-    </item>
-    <item>
-      <title>Running all my Claude sessions from one phone</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/run-all-my-claude-sessions-from-one-phone.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/run-all-my-claude-sessions-from-one-phone.md</guid>
-      <pubDate>Tue, 21 Jul 2026 13:48:03 +0000</pubDate>
-      <description>Here is another thing I have been thinking about. Maybe someone can tell me how best to build it. I have several Claude and Codex instances on several machines. On three machines I have three different accounts. And I need to drive all of them from a single phone. My thinking so far: set up a…</description>
     </item>
   </channel>
 </rss>
