@@ -25,7 +25,7 @@ Event extraction reads like a search problem and is mostly a temporal-resolution
 ## The line worth stealing from the source post
 Indexing your own chats is less about search than about knowing which room discusses what. That map cannot be bought, and it makes the difference between asking a model a question and asking the right room.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/finding-what-happens-around-you.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
