@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 10:35:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:28:50 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Letting Someone Else&#x27;s Agent Into Your Database</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/letting-someone-elses-agent-in.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/letting-someone-elses-agent-in.md</guid>
+      <pubDate>Fri, 07 Aug 2026 11:28:36 +0000</pubDate>
+      <description>There is this thing called MCP. Through it one AI befriends another, and they talk to each other directly.</description>
+    </item>
     <item>
       <title>The Live Show Pipeline</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-live-show-pipeline.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/run-all-my-claude-sessions-from-one-phone.md</guid>
       <pubDate>Tue, 21 Jul 2026 13:48:03 +0000</pubDate>
       <description>Here is another thing I have been thinking about. Maybe someone can tell me how best to build it. I have several Claude and Codex instances on several machines. On three machines I have three different accounts. And I need to drive all of them from a single phone. My thinking so far: set up a…</description>
-    </item>
-    <item>
-      <title>Building in the open, in Karpathy&#x27;s line</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/building-in-the-open-like-karpathy.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/building-in-the-open-like-karpathy.md</guid>
-      <pubDate>Tue, 21 Jul 2026 08:33:31 +0000</pubDate>
-      <description>I have thought up one more thing. First I will study Andrej Karpathy&#x27;s GitHub, his repositories, his approach, what he published and where. And then I will come and say what I built for myself in the same image and likeness. And all my work is open, anyone can take it and build the same thing.…</description>
     </item>
   </channel>
 </rss>
