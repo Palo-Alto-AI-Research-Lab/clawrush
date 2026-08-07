@@ -22,7 +22,7 @@ The requirement in the post is one line: before any task, look in your own memor
 **Cause.** Staleness is domain-specific. A benchmark rots in months, a price in weeks, a rule about who owns a file the moment someone migrates it, and none of them change appearance when they expire.
 **Solution today, partial and stated as partial:** verdicts expire after thirty days unless they carry a date and a way to re-check; a stated cause without evidence is labelled a hypothesis. Both are conventions applied by a reader, not detectors that fire on their own. Calling that "the trigger is built" would be false.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/recall-first-then-hand-me-a-prompt.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
