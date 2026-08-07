@@ -25,7 +25,7 @@ Voice capture looks like a transcription problem and is actually a classificatio
 ## What is actually running
 The Telegram side with transcription and preserved originals, and triage into buckets. Not running: pickup from the Mac, nightly collection from the phone, and automatic cross-linking of everything incoming. The post describes the target design; this line describes today.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/one-pipe-for-every-voice-note.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
