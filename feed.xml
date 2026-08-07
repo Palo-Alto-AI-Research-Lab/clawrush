@@ -5,8 +5,15 @@
     <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush</link>
     <description>English essays from running a fleet of Claude machines as one organism: what was built, what broke, what was learned.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 06:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:11:21 +0000</lastBuildDate>
     <atom:link href="https://github.com/Palo-Alto-AI-Research-Lab/clawrush/raw/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Bot That Remembers So People Do Not Have To</title>
+      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-bot-that-remembers.md</link>
+      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/the-bot-that-remembers.md</guid>
+      <pubDate>Fri, 07 Aug 2026 07:11:04 +0000</pubDate>
+      <description>One of my bots is connected to the chat with my assistants. And the first thing it needs is to understand how the work is actually structured and how it can be maximally, proactively useful to me.</description>
+    </item>
     <item>
       <title>Who Wakes Your Agent?</title>
       <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/who-wakes-your-agent.md</link>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/a-second-brain-for-everyone-on-the-team.md</guid>
       <pubDate>Mon, 20 Jul 2026 14:05:10 +0000</pubDate>
       <description>I have already written about how I built myself a second brain out of my own correspondence. Now the next step: we are building one for everyone on the team. The task for my colleagues&#x27; AIs: export their entire personal message history, WhatsApp, Telegram, email, and store it safely in their own…</description>
-    </item>
-    <item>
-      <title>Claude forgets the middle of my instructions</title>
-      <link>https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/claude-forgets-the-middle-of-my-instructions.md</link>
-      <guid isPermaLink="true">https://github.com/Palo-Alto-AI-Research-Lab/clawrush/blob/main/longreads/claude-forgets-the-middle-of-my-instructions.md</guid>
-      <pubDate>Mon, 20 Jul 2026 10:48:30 +0000</pubDate>
-      <description>Colleagues, I need advice. My CLAUDE.md has ballooned. It is the main instruction file for my AI, the one it reads at the start of every session. It is already some three hundred lines.</description>
     </item>
   </channel>
 </rss>
