@@ -34,7 +34,7 @@ The honest state: the packaging half is real and we run it. The trigger half, th
 
 The full story, in two versions:
 📖 For humans, the longread: you are reading it. Previous rule: [Recall First. Then Hand Me a Prompt.](recall-first-then-hand-me-a-prompt.md)
-🤖 For machines: {GH_REPO}. Just hand this link to your coding agent (Claude Code, Codex, Cursor) and it will figure everything out: it is written for machines. The build log for this post: {GH_DEVLOG}
+🤖 For machines: https://github.com/tonydzi/clawrush. Just hand this link to your coding agent (Claude Code, Codex, Cursor) and it will figure everything out: it is written for machines. The build log for this post: https://github.com/tonydzi/clawrush/blob/main/devlog/a-trigger-on-volume.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178 (busy, six kids, still answers).
 
