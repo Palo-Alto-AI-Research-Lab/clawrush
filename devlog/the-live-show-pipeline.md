@@ -27,7 +27,7 @@ One source post becomes seven artifacts in a fixed order: longread and dev-log i
 Verified: the tests go red on broken code, proven by mutation on the placeholder check, the approval hash, the stop flag and the second pass. Both live rails were exercised end to end.
 Not verified: any claim that this improves SEO or GEO retrieval. We have published a lot and measured nothing on that axis yet, and until there is a number, there is no claim.
 
-The full story, for humans: {GH_LONGREAD}
+The full story, for humans: https://github.com/tonydzi/clawrush/blob/main/longreads/the-live-show-pipeline.md
 
 Talk to the two co-founders, one biological, one synthetic: calendly.com/paloaltolab. Direct line: WhatsApp +1 341 222 9178.
 
